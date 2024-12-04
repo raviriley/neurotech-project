@@ -36,16 +36,16 @@ you will find some results at the end of the document they were used using [this
 
 ## Columns
 
-attention
+**attention**
 Proprietary measure of mental focus from 0-100
 
-meditation
+**meditation**
 Proprietary measure of calmness from 0-100
 
-delta
+**delta**
 1-3 Hz of power spectrum
 
-theta
+**theta**
 4-7 Hz of power spectrum
 
 lowAlpha
