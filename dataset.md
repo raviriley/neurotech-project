@@ -36,35 +36,16 @@ you will find some results at the end of the document they were used using [this
 
 ## Columns
 
-**attention**
-Proprietary measure of mental focus from 0-100
-
-**meditation**
-Proprietary measure of calmness from 0-100
-
-**delta**
-1-3 Hz of power spectrum
-
-**theta**
-4-7 Hz of power spectrum
-
-**lowAlpha**
-Lower 8-11 Hz of power spectrum
-
-**highAlpha**
-Higher 8-11 Hz of power spectrum
-
-**lowBeta**
-Lower 12-29 Hz of power spectrum
-
-**highBeta**
-Higher 12-29 Hz of power spectrum)
-
-**lowGamma**
-Lower 30-100 Hz of power spectrum
-
-**highGamma**
-Higher 30-100 Hz of power spectrum
-
-**classification**
-whether driver is sleepy
+| Column         | Description                                    |
+| -------------- | ---------------------------------------------- |
+| attention      | Proprietary measure of mental focus from 0-100 |
+| meditation     | Proprietary measure of calmness from 0-100     |
+| delta          | 1-3 Hz of power spectrum                       |
+| theta          | 4-7 Hz of power spectrum                       |
+| lowAlpha       | Lower 8-11 Hz of power spectrum                |
+| highAlpha      | Higher 8-11 Hz of power spectrum               |
+| lowBeta        | Lower 12-29 Hz of power spectrum               |
+| highBeta       | Higher 12-29 Hz of power spectrum              |
+| lowGamma       | Lower 30-100 Hz of power spectrum              |
+| highGamma      | Higher 30-100 Hz of power spectrum             |
+| classification | whether driver is sleepy                       |
