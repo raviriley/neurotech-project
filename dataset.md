@@ -2,7 +2,7 @@ https://www.kaggle.com/datasets/naddamuhhamed/sleepy-driver-eeg-brainwave-data/d
 
 ---
 
-# About `acquiredDataset.csv` Dataset
+# About Dataset
 
 ## Description
 
@@ -29,3 +29,42 @@ I thought about uploading this dataset since we worked hard on it and it's a was
 
 here is our [proposal](https://drive.google.com/file/d/1n70BcMPvtGzscGGgcBA8ruXdO0AuEr_v/view?usp=sharing) document. The similar systems section would be very useful
 you will find some results at the end of the document they were used using [this](https://www.kaggle.com/datasets/wanghaohan/confused-eeg) dataset as it used the same helmet as ours although not the same classification and that's why we got poor results but it was for a start
+
+# About `acquiredDataset.csv`
+
+= collected dataset and its classification
+
+## Columns
+
+attention
+Proprietary measure of mental focus from 0-100
+
+meditation
+Proprietary measure of calmness from 0-100
+
+delta
+1-3 Hz of power spectrum
+
+theta
+4-7 Hz of power spectrum
+
+lowAlpha
+Lower 8-11 Hz of power spectrum
+
+highAlpha
+Higher 8-11 Hz of power spectrum
+
+lowBeta
+Lower 12-29 Hz of power spectrum
+
+highBeta
+Higher 12-29 Hz of power spectrum)
+
+lowGamma
+Lower 30-100 Hz of power spectrum
+
+highGamma
+Higher 30-100 Hz of power spectrum
+
+classification
+whether driver is sleepy
