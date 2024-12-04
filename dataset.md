@@ -48,23 +48,23 @@ Proprietary measure of calmness from 0-100
 **theta**
 4-7 Hz of power spectrum
 
-lowAlpha
+**lowAlpha**
 Lower 8-11 Hz of power spectrum
 
-highAlpha
+**highAlpha**
 Higher 8-11 Hz of power spectrum
 
-lowBeta
+**lowBeta**
 Lower 12-29 Hz of power spectrum
 
-highBeta
+**highBeta**
 Higher 12-29 Hz of power spectrum)
 
-lowGamma
+**lowGamma**
 Lower 30-100 Hz of power spectrum
 
-highGamma
+**highGamma**
 Higher 30-100 Hz of power spectrum
 
-classification
+**classification**
 whether driver is sleepy
